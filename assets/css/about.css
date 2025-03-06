@@ -1,0 +1,15 @@
+.navbar{
+    background-color: yellowgreen;
+}
+.navbar img{
+    width: 80px;
+    height: 80px;
+}
+.navbar .nav-link:hover{
+border-bottom: 2px solid black;
+}
+
+.about img{
+width: 100%;
+height: 250px;
+}
